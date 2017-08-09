@@ -1,22 +1,23 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react'
+import glamorous from 'glamorous'
+
 import FlatButton from 'material-ui/FlatButton'
+
+const Div = glamorous.div({
+  display: 'flex'
+})
+
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React</h2>
-          <FlatButton/>
-        </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
-    );
+    <Div
+    >
+      
+      <h2>It's my app and I'll cry if I want to</h2>
+      <FlatButton label="primary"/>
+     </Div> 
+    )
   }
 }
 
