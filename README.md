@@ -17,7 +17,6 @@ Spectable decreases window resize time by an order of magniture. This can litera
 
 [Alfred](https://www.alfredapp.com/) Alfred is like finder and spotlight had a kid and pumped it full of steroids. [Good article from a Canadian about Alfred](https://medium.com/@rurka/kill-the-dock-for-macos-dcb1d4ba8c8c)
 
-Alternatives create-react-app 
 
 Material ui
 Pain points. Design is hard. Let google do it for you. 
@@ -64,6 +63,8 @@ Next js
 [Next.js](https://github.com/zeit/next.js/) Create-react-app is amazing for rapid prototyping of a component or a series of components. But there are some things that create-react-app doesn't do out of the box. 
 
 Code splitting, routing out of the box, static exports AKA no node instance. Dynamic imports at the component level. HOWEVER since next is a bit bleeding edge there are some compatability issues. 
+
+Now explain all of those things. Also explain dif between server side and client side routing. 
 
 Warning combining dynamic imports and static exports can cause your app to disappear into pure energy. 
 
