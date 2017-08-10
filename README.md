@@ -40,9 +40,9 @@ or
 npm start
 yarn add material-ui react-tap-event-plugin
 ```
-see (Material-ui)[http://www.material-ui.com/] for detailed docs and component library. 
+see [Material-ui](http://www.material-ui.com/) for detailed docs and component library. 
 
-3 or C or whatever number- Glamorous (Nice intro to why glamorous)[https://medium.com/@kentcdodds/introducing-glamorous-fb3c9f4ed20e]
+3 or C or whatever number- Glamorous [Nice intro to why glamorous](https://medium.com/@kentcdodds/introducing-glamorous-fb3c9f4ed20e)
 
 Glamorous dynamic and static styles 
 
